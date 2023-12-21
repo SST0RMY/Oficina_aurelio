@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Objetivo',
-    Svg: require('./img/mecanica.svg').default,
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
         A nossa oficina tem como objetivo ajudar os moradores da aldeia
