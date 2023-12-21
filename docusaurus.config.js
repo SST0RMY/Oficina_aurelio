@@ -72,7 +72,6 @@ const config = {
         },
         items: [
          
-          {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/docs/servicos/', label: 'Serviços', position: 'left'},
           {to: '/docs/Equipamento/', label: 'Equipamento', position: 'left'},
           {to: '/docs/Pecas/', label: 'Peças', position: 'left'},
