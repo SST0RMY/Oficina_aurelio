@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Objetivo',
-    Svg: require('').default,
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
         A nossa oficina tem como objetivo ajudar os moradores da aldeia
@@ -21,7 +21,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'O que fazemos',
-    Svg: require('').default,
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
         tratamos de serviços de oficina,bateria carro,áudio, multimédia, assistentes de condução e
@@ -31,7 +31,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Morada',
-    Svg: require('').default,
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
         Oliveira do Conde, 8430-358, Viseu, Portugal
