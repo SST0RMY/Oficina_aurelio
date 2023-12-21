@@ -78,7 +78,7 @@ const config = {
           {to: '/docs/Pecas/', label: 'Peças', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            label: 'Minha conta',
             position: 'right',
           },
         ],
