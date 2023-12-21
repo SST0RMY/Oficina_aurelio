@@ -1,4 +1,4 @@
-# Equipamentos para Carros Disponíveis para Venda
+# Equipamentos
 
 Bem-vindo à nossa loja de equipamentos automóveis! Dispomos de uma variedade de equipamentos de alta qualidade para melhorar o desempenho e a estética do seu veículo.
 
