@@ -19,7 +19,7 @@ Contamos com uma equipa especializada em reparação de motores e transmissões,
 
 Realizamos diagnósticos e reparos em sistemas elétricos do seu veículo, incluindo baterias, sistemas de ignição, iluminação e cablagem elétrica.
 
-![Serviços de Eletricidade](https://www.spgoficinas.com/_images/mante/11/6877_modal/electricidad-web.jpg)
+![Serviços de Eletricidade](https://img.freepik.com/fotos-premium/mecanico-profissional-esta-trabalhando-no-servico-de-carro-bom-eletricista-bateria-de-eletricidade-totalmente-carregada_153228-2590.jpg)
 
 
 ## 4. Serviços de Funilaria e Pintura
