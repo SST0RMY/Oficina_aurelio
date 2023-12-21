@@ -66,10 +66,6 @@ const config = {
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Oficina Aurelio',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
-        },
         items: [
          
           {to: '/docs/servicos/', label: 'Serviços', position: 'left'},
